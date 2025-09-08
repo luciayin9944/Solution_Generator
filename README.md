@@ -11,15 +11,6 @@ pip freeze > requirements.txt
 pipreqs --encoding utf-8
 ```
 
-## Flask PostgreSQL
-To connect database:
-
-Host: math.csnsgshi11e2.us-east-2.rds.amazonaws.com
-
-Port: 5432
-
-Password: mathpassword
-
 
 ## Database
 
